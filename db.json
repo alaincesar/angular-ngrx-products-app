@@ -1,0 +1,9 @@
+{
+  "products": [
+    {"id": 1, "name": "Computer", "price": 4300, "quantity": 600, "selected": true, "available": true},
+    {"id": 2, "name": "Printer", "price": 2500, "quantity": 800, "selected": true, "available": true},
+    {"id": 3, "name": "Smartphone", "price": "1500", "quantity": 124, "selected": true, "available": false},
+    {"id": 4, "name": "ccc", "price": "2500", "quantity": "3", "selected": false, "available": false},
+    {"id": 5, "name": "toy", "price": "4", "quantity": "2", "selected": false, "available": true}
+  ]
+}
